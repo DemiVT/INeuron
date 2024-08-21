@@ -113,9 +113,7 @@ Contributions are welcome! Please follow these steps to contribute to the projec
    ```
 7. **Create a Pull Request**: Submit a pull request from your fork to the main repository.
 
-### License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Future Enhancements
 
